@@ -1,0 +1,32 @@
+{
+  "short_name": "Nebrodi Costruzioni",
+  "name": "Nebrodi Costruzioni Generali srl",
+  "icons": [
+    {
+      "src": "/icon/icon-48.gif",
+      "type": "image/gif",
+      "sizes": "48x48"
+    },
+    {
+      "src": "/icon/icon-96.gif",
+      "type": "image/gif",
+      "sizes": "96x96"
+    },
+	{
+      "src": "/icon/icon-144.gif",
+      "type": "image/gif",
+      "sizes": "144x144"
+    },
+    {
+      "src": "/icon/icon-192.gif",
+      "type": "image/gif",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "/?utm_source=homescreen",
+  "display": "fullscreen",
+  "lang": "it-IT",
+  "background_color": "#fff",
+  "theme_color": "#FFBF00",
+  "orientation": "portrait-primary"
+}

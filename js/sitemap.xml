@@ -1,0 +1,40 @@
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.nebrodicostruzioni.it/js/sitemap.xml">
+  <url>
+    <loc> https://www.nebrodicostruzioni.it/index.html/</loc>
+    <lastmod>2022-08-08</lastmod>
+  </url>
+
+  <url>
+    <loc> https://www.nebrodicostruzioni.it/about.html/ </loc>
+    <lastmod>2022-08-08</lastmod>
+  </url>
+
+ <url>
+    <loc> https://www.nebrodicostruzioni.it/contattaci.html/ </loc>
+    <lastmod>2022-08-08</lastmod>
+  </url>
+
+
+
+<loc> https://www.nebrodicostruzioni.it/eng/index-eng.html/ </loc>
+    <lastmod>2022-08-08</lastmod>
+  </url>
+
+  <url>
+    <loc> https://www.nebrodicostruzioni.it/eng/about-eng.html/ </loc>
+    <lastmod>2022-08-08</lastmod>
+  </url>
+
+ <url>
+    <loc> https://www.nebrodicostruzioni.it/eng/contattaci-eng.html/ </loc>
+    <lastmod>2022-08-08</lastmod>
+  </url>
+
+   <loc> https://www.nebrodicostruzioni.it/eng/works.html/ </loc>
+    <lastmod>2022-08-08</lastmod>
+  </url>
+
+</urlset>
