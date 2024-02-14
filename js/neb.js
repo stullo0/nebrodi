@@ -58,7 +58,7 @@ const currentYear = new Date();
 yearSpan.innerText = currentYear.getFullYear();
 
 
-
+/* autoprefixer
 const autoprefixer = require('autoprefixer')
 const postcss = require('postcss')
 const postcssNested = require('postcss-nested')
@@ -83,3 +83,4 @@ document.ready(function() {
          };
    });
 });
+*/
