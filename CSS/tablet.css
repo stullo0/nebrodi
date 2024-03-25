@@ -1458,7 +1458,8 @@
     #titles h3 {
         position: relative;
         top: 35%;
-        color: #000000;
+        color: #ffffff;
+        padding-bottom: 0;
     }
 
     #article-eng {
@@ -1790,7 +1791,9 @@
     }
 
     #barra a {
-        font-size: 20px
+        font-size: 20px;
+        color: #555555;
+        font-weight: 800;
     }
 
     #barra li {
@@ -2074,12 +2077,12 @@
         margin: 0;
         padding: 0;
         height: 1500px;
-        width: 100%
+        width: 100%;
     }
 
     .new img {
         position: absolute;
-        top: -70;
+        top: -50;
         left: 55
     }
 
@@ -2180,7 +2183,7 @@
         width: 60%;
         margin: 0;
         height: 25%;
-        margin-top: 4%;
+        margin-top: 14%;
         margin-right: 2%
     }
 
@@ -2196,7 +2199,7 @@
         height: 15%;
         width: 35%;
         margin: 0;
-        margin-top: 4%;
+        margin-top: 14%;
         margin-left: 2%;
         border-radius: 100%;
         position: relative;
@@ -2489,13 +2492,13 @@
         height: 100%;
         color: #fff!important;
         background-color: #3330;
-        font-size: xx-large;
+        font-size: xxx-large;
         color: #ff9b00!important;
         padding-top: 2%;
         padding-bottom: 0%;
         left: 0;
         display: inline-block !important;
-        ;}
+        }
 
     #barra {
         display: flex;
@@ -2505,15 +2508,16 @@
         position: relative;
         top: 0;
         height: 100%;
-        background-color: #262727;
+        background-color: #ffaf32;
         margin-bottom: 0;
         left: 0;
         justify-content: space-between;
-        padding: 0
+        padding: 0;
+        padding-top: 1%;
     }
 
     #barra a {
-        font-size: 20px
+        font-size: 23px;
     }
 
     #barra li {
@@ -2521,7 +2525,7 @@
         flex-direction: row;
         width: 100%;
         padding: 0;
-        padding-bottom: 1%
+        padding-bottom: 1%;
     }
 
     #barra i {
@@ -3611,11 +3615,17 @@
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 2) {
     #barra {
         z-index: 50;
+        background-color: #ffaf32;
+        font-size: 22;
+        padding-top: 1%;
+        padding-bottom: 1%;
     }
 
     #titolonav {
         z-index: 100;
+        font-size: 40px;
     }
+    #titles h3 {padding-bottom:0}
 
     #ab-page footer {
         height: 50% !important;
@@ -3650,6 +3660,7 @@
     9:
     JIS90;
     height: 95%;
+    background-color: #79a4e5;
 }
     @media screen and (min-width: 2000px)  {
 

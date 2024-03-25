@@ -183,7 +183,8 @@ footer {
 
     #little-story {
         height: 70%;
-        padding: 0
+        padding: 0;
+        padding-top: 20;
     }
 
     #little-story ul {
@@ -191,6 +192,7 @@ footer {
         padding: 0
     }
 
+     #titolonav  {color: #fff !important;}
     #titolonav {
         margin: 0;
         padding: 0;
@@ -198,7 +200,8 @@ footer {
         position: absolute;
         font-size: medium;
     }
-
+   
+    
     .small {
         height: 70px;
         bottom: 10%;
@@ -694,7 +697,8 @@ footer {
     .container {
         width: 1000px;
         height: 50;
-        font-size: small
+        font-size: small;
+        background-color: #262626 !important;
     }
 
     #background,#cosa {
@@ -715,7 +719,8 @@ footer {
     }
 
     #background h3,#cosa {
-        font-size: large
+        font-size: large;
+        padding-bottom: 0;
     }
 
     #cosa {
