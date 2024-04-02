@@ -1448,6 +1448,7 @@
         z-index: 100;
         width: 100%;
     }
+    #background img {height: fit-content;}
 
     #titles h1 {
         position: relative;
@@ -3660,7 +3661,7 @@
     9:
     JIS90;
     height: 95%;
-    background-color: #79a4e5;
+    background-color: #ffaf32;
 }
     @media screen and (min-width: 2000px)  {
 
