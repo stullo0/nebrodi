@@ -1441,7 +1441,7 @@
 }
 
 
-@media screen and (orientation:landcsape) and (min-width:1079px) {#background img {height:100%}}
+@media screen and (orientation:landcsape) and (max-width:1100px) {#background img {height:100%}}
 @media screen and (orientation: landscape) and (min-width:1020px) {
     #titles {
         height: 620;
