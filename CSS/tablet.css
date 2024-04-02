@@ -1440,6 +1440,8 @@
     /*#c-page #article-c a{color:#fff}#article-c{top:-30px!important} */
 }
 
+
+@media screen and (orientation:landcsape) and (min-width:1079px) {#background img {height:100%}}
 @media screen and (orientation: landscape) and (min-width:1020px) {
     #titles {
         height: 620;
@@ -1448,7 +1450,7 @@
         z-index: 100;
         width: 100%;
     }
-    #background img {height: fit-content;}
+   
 
     #titles h1 {
         position: relative;
