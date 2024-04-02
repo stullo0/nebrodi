@@ -1,3 +1,6 @@
+@media screen and (orientation:landcsape) and (min-width:1000px) {#background img {height:100%}}
+@media screen and (orientation:landcsape) and (min-width:1100px) {#background img {height: fit-content}}
+
 @media screen and (orientation: portrait) and (min-width:860px) and (min-height:1040px) {
     #cert {left: 60% !important;} #credits {left:37% !important}
 }
@@ -1441,8 +1444,7 @@
 }
 
 
-@media screen and (orientation:landcsape) and (min-width:1000px) {#background img {height:100%}}
-@media screen and (orientation:landcsape) and (min-width:1100px) {#background img {height:fit-content}}
+
 @media screen and (orientation: landscape) and (min-width:1020px) {
     #titles {
         height: 620;
