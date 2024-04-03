@@ -692,6 +692,7 @@ footer {
         /* padding-bottom:0; */
         top: 20%;
         position: relative;
+        left: 0;
     }
 
     .container {
