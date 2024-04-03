@@ -39,8 +39,12 @@
 }
 
 #titles h3 {
-    color: #555555;
+    color: #ffffff;
     /* padding-bottom: 200px; */
+    width: fit-content;
+    position: relative;
+    left: 30%;
+    background: #ffc107d1;
 }
 
 #little-story {
@@ -140,7 +144,7 @@
     padding-bottom: 1em
 }
 
-@media screen and (min-width: 1200px) and (orientation:landscape) {
+@media screen and (min-width: 1200px) and (orientation: landscape) {
     #titles {
         /* height:700px; */
         /* padding: 0; */
