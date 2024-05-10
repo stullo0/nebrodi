@@ -1458,7 +1458,9 @@
     #titles h1 {
         position: relative;
         top: 35%;
-        padding-top: 0
+        padding-top: 0;
+        width: fit-content;
+        left: 5%;
     }
 
     #titles h3 {
@@ -1466,6 +1468,7 @@
         top: 35%;
         color: #ffffff;
         padding-bottom: 0;
+        font-size: 1.5em;
     }
 
     #article-eng {
