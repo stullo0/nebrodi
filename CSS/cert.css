@@ -4269,6 +4269,15 @@ a {
   }
 }
 
+@media screen and (min-width: 700px) and (min-height:1000px) {
+  .section-9 {margin-top:8em}
+  .container {
+    max-width:100%;
+    
+  }
+}
+
+
 @media screen and (max-width: 450px) and (max-height:950px) {
 
   .section-9 {
@@ -4291,5 +4300,6 @@ a {
   .container {
     right:0;
    
+    
   }
 }
