@@ -241,6 +241,7 @@ footer {
         height: auto;
         margin-top: 10px;
     }
+    #cassa {top:10; position:relative;}
 
     #cert a {
         display: block;
