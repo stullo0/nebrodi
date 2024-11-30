@@ -2,7 +2,7 @@
 @media screen and (orientation:landcsape) and (min-width:1100px) {#background img {height: fit-content}}
 
 @media screen and (orientation: portrait) and (min-width:860px) and (min-height:1040px) {
-    #cert {left: 60% !important;} #credits {left:37% !important}
+    #cert {left: 55% !important;} #credits {left:37% !important}
 }
 
 .works-section {
@@ -1975,7 +1975,7 @@
     }
 #contatti2 #box-contatti h5 {word-break:break-word}
     #cert {
-        left: 50%;
+        left: 45%;
         top: 75%;
     }
 
@@ -3634,7 +3634,7 @@
         z-index: 100;
         font-size: 40px;
     }
-    #titles h3 {padding-bottom:0}
+    #titles h3 {padding-bottom:0;left: 10%;}
 
     #ab-page footer {
         height: 50% !important;
