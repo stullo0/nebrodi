@@ -55,8 +55,8 @@
 #cert-img {
  display: flex;
  flex-direction: row;
- width: fit-content;
- height: fit-content;
+ /* width: fit-content; */
+ /* height: fit-content; */
 }
 
 #cookieChoiceInfo svg {
